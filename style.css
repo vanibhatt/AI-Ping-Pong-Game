@@ -1,0 +1,59 @@
+body{
+    background-image: url("background1.jpg");
+}
+
+
+.heading{
+width: 100%;
+text-align: left;
+font-size: x-large;
+
+}
+
+.heading h3{
+    display: inline;
+    font-size: x-large;
+}
+
+.heading button{
+    float: right;
+    border: 1px solid white;
+    font-size: x-large;
+}
+
+#start ,#status, #restart{
+font-size: x-large;
+}
+
+.modal-dialog{
+    width: 70%;
+    font-size: x-large;
+}
+
+.modal-body{
+    text-align: left;
+    font-size: 20px;
+    font-size: x-large;
+}
+
+h4{
+   background-color: grey;
+   color:white;
+   line-height: 2;
+   font-size: x-large;
+}
+
+canvas {
+      border:3px solid white;
+      border-radius: 20px;
+      box-shadow:  5px 5px 5px white;
+  }
+
+  #footer{
+    position: fixed;
+    left: 0;
+    bottom: 0;
+    width: 100%;
+    background-color: gray;
+    font-size: x-large;
+  }
